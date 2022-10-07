@@ -61,6 +61,3 @@ Here are some ideas to get you started:
 <a href="https://www.instagram.com/jsm33t/"><img src="https://img.shields.io/badge/-jsm33t-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://jsm33t.com/"><img src="https://img.shields.io/badge/-🌐%20jsm333t.com-1877F2?style=flat&logo=website&logoColor=white"/></a>
 </p>
-<center>
-<img src="https://jsm33t.com/resources/images/logos/j_logo_teal.svg" width="200px">
-</center>
