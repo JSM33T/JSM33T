@@ -26,6 +26,10 @@ Here are some ideas to get you started:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Csharp](https://img.shields.io/badge/-Csharp-05122A?style=flat&logo=csharp)&nbsp;
 ![DotNET](https://img.shields.io/badge/dotnet-%23013243.svg?style=flat&logo=dotnet&logoColor=white)
+![DotNETFramework](https://img.shields.io/badge/dotnet-%23013243.svg?style=flat&logo=dotnet&logoColor=white)
+![DotNETCore](https://img.shields.io/badge/dotnet-%23013243.svg?style=flat&logo=dotnet&logoColor=white)
+![React](https://img.shields.io/badge/react-%23013243.svg?style=flat&logo=react&logoColor=white)
+![DotNETCore](https://img.shields.io/badge/dotnet-%23013243.svg?style=flat&logo=dotnet&logoColor=white)
 ![VB.NET](https://img.shields.io/badge/VB.NET-%23013243.svg?style=flat&logo=dotnet&logoColor=white)
 ![Php](https://img.shields.io/badge/-php-05122A?style=flat&logo=php)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
