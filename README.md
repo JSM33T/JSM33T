@@ -25,7 +25,6 @@ Here are some ideas to get you started:
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Csharp](https://img.shields.io/badge/-Csharp-05122A?style=flat&logo=csharp)&nbsp;
-![DotNET](https://img.shields.io/badge/dotnet-%23013243.svg?style=flat&logo=dotnet&logoColor=white)
 ![DotNETFramework](https://img.shields.io/badge/dotnet-%23013243.svg?style=flat&logo=dotnet&logoColor=white)
 ![DotNETCore](https://img.shields.io/badge/dotnet-%23013243.svg?style=flat&logo=dotnet&logoColor=white)
 ![React](https://img.shields.io/badge/react-%23013243.svg?style=flat&logo=react&logoColor=white)
