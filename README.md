@@ -56,5 +56,5 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/jsm33t/"><img src="https://img.shields.io/badge/-Jasmeet Singh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:jskainthofficial@gmail.com"><img src="https://img.shields.io/badge/-jskainthofficial@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.instagram.com/jsm33t/"><img src="https://img.shields.io/badge/-jsm33t-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://jsm33t.com/"><img src="https://img.shields.io/badge/-🌐%20jsm333t.com-1877F2?style=flat&logo=website&logoColor=white"/></a>
+<a href="https://jsm33t.in/"><img src="https://img.shields.io/badge/-🌐%20jsm333t.com-1877F2?style=flat&logo=website&logoColor=white"/></a>
 </p>
