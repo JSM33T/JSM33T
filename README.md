@@ -17,22 +17,6 @@
 
 ---
 
-### 🚀 Projects Showcase
-
-**🔹 RAG System for Internal Knowledge Base**  
-> Custom Retrieval-Augmented Generation using LangChain and Pinecone.  
-[View GitHub](#)
-
-**🔹 Centralized Media API (.NET Core)**  
-> Designed a scalable media server with secure endpoints and CDN integration.  
-[View GitHub](#)
-
-**🔹 Face Authentication Proxy (Python + ASP.NET)**  
-> Token-secured FastAPI endpoints bridged via ASP.NET Core for secure client access.  
-[View GitHub](#)
-
----
-
 ### 🛠 Tech Stack
 
 #### Languages  
